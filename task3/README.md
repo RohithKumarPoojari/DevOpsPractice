@@ -2,6 +2,9 @@
 
 This project is a simple Node.js application that responds with "Hello, welcome to Xops" on the root route (`/`).
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/502f59ec-ba51-45b0-8fff-cbaddb919e4d" />
+
+
 ## How to Run Locally
 
 1. Install Node.js (https://nodejs.org/)
